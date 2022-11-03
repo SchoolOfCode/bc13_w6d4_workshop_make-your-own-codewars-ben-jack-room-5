@@ -12,8 +12,6 @@ to anyone over the gae of 18, eldest first.
 
 */
 
-// Tests input
-
 //👉 Write the function your CodeWarriors will start with below here:
 export function removeUnderage(array) {
   // code here
